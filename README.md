@@ -34,7 +34,7 @@
   <h3 align="center">+++++++++</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Just a good old terminal chat root application
     <br />
     <a href="https://github.com/wasabiegg/room-9/issues">Report Bug</a>
     ·
@@ -74,7 +74,6 @@
 
 [![Product Demo][project-demo]](https://example.com)
 
-Just a good old terminal chat root application
 
 <!-- Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
