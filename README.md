@@ -137,8 +137,10 @@ This section should list any major frameworks that you built your project using.
 
 <!-- ROADMAP -->
 ## Roadmap
-* RSA encryption
-* Better terminal display
+- [ ] RSA encryption
+- [ ] Better terminal display
+- [ ] Better exception handling
+- [ ] Full Unit test
 
 See the [open issues](https://github.com/wasabiegg/room-9/issues) for a list of proposed features (and known issues).
 
