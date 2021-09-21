@@ -123,12 +123,12 @@ This section should list any major frameworks that you built your project using.
 1. on server
   ```sh
   cd room-9/
-  python server/server.py 127.0.0.1:9090
+  python server/server.py 0.0.0.0:9090
   ```
 2. on client
   ```sh
   cd room-9/
-  python client/client.py 127.0.0.1:9090 -u Jenny 
+  python client/client.py [server_ip]:[server_port] -u Jenny 
   ```
 3. Have fun!
 
