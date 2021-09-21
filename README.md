@@ -34,7 +34,7 @@
   <h3 align="center">+++++++++</h3>
 
   <p align="center">
-    Just a good old terminal chat root application
+    Just a good old terminal chat room application
     <br />
     <a href="https://github.com/wasabiegg/room-9/issues">Report Bug</a>
     ·
