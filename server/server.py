@@ -74,6 +74,7 @@ def main():
 
                 username = get_username(conn)
                 if username is None:
+                    conn.close()
                     continue
 
                 print(f"connected from {addr}")
